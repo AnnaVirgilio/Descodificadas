@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Satisfy&display=swap');
+body{
+    background-repeat: no-repeat;
+    background: url('Logo\ ok\ 1.png');
+    background-size: cover;
+    font-family: Satisfy;
+    position: relative;
+}
+
+.musicos{
+    color:white
+}
